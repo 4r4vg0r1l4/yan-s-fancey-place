@@ -5,3 +5,5 @@ Aquí encontrarás nuestros productos y servicios.
 Próximamente encontrarás aquí nuestros productos.
 ## Servicios
 Próximamente encontrarás aquí nuestros servicios.
+## Sobre nosotros
+Estamos trabajando para ofrecerte productos y servicios de calidad.
